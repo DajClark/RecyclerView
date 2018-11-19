@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecyclerExample</string>
+    <string name="todo_title">Title:</string>
+    <string name="todo_date">Date:</string>
 </resources>
